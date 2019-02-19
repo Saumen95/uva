@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 11517 - Exact Change
-*/
+
 #include <bits/stdc++.h>
 
 #define MAX 1e4
