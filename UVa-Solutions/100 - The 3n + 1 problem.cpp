@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 100 - The 3n + 1 problem
-*/
+
 #include <bits/stdc++.h>
 
 #define MAX 1000001
