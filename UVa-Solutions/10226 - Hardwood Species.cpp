@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10226 - Hardwood Species
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
