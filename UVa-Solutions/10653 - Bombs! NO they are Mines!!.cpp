@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10653 - Bombs! NO they are Mines!!
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
