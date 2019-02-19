@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10305 - Ordering Tasks
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
