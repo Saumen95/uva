@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10026 - Shoemaker's Problem
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
