@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 540 - Team Queue
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
