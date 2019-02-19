@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10142 - Australian Voting
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
