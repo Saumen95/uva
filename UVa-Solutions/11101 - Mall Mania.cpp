@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 11101 - Mall Mania
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
