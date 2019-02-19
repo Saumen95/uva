@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10346 - Peter's Smokes
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
