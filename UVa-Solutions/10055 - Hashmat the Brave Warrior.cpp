@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10055 - Hashmat the Brave Warrior
-*/
+
 #include <iostream>
 
 using namespace std;
