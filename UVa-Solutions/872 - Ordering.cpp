@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 872 - Ordering
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
