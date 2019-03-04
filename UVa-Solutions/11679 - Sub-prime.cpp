@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 11679 - Sub-prime
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
