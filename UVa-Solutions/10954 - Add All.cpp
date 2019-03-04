@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10954 - Add All
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
