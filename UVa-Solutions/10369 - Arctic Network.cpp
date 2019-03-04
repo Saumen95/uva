@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 10369 - Arctic Network
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
