@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 11608 - No Problem
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
