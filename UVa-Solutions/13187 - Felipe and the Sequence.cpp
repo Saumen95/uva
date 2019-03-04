@@ -1,7 +1,4 @@
-/*
-*	User: Isanchez_Aguilar
-*	Problem: UVA 13187 - Felipe and the Sequence
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
