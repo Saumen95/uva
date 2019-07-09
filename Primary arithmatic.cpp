@@ -2,8 +2,7 @@
 
 #define N 128
 using namespace std;
-
-static char S[N];
+static char s[N];
 static char t[N];
 
 int main(int argc, char const *argv[])
